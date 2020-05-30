@@ -1,1 +1,1 @@
-[! My octophoto](./pipetocats.jpg)
+![My octophoto](./pipetocats.jpg)
